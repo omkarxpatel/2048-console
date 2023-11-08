@@ -1,0 +1,1 @@
+sudo /opt/homebrew/bin/python3 /Users/omkarvpatel/Downloads/Coding/Python/Games/2048/main.py
